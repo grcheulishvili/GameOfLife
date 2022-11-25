@@ -1,0 +1,13 @@
+D:\code\C#\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe.config
+D:\code\C#\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.exe
+D:\code\C#\GameOfLIfe\GameOfLIfe\bin\Debug\GameOfLIfe.pdb
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.AssemblyReference.cache
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form1.resources
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Properties.Resources.resources
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.GenerateResource.cache
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.csproj.CoreCompileInputs.cache
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.exe
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.pdb
+D:\code\C#\GameOfLIfe\GameOfLIfe\bin\Debug\en-US\GameOfLIfe.resources.dll
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\GameOfLIfe.Form1.en-US.resources
+D:\code\C#\GameOfLIfe\GameOfLIfe\obj\Debug\en-US\GameOfLIfe.resources.dll
